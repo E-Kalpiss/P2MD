@@ -1,2 +1,2 @@
-# P2MD
-P2MD
+# Programmēšana II Mājasdarbs
+Programmēšana II Mājasdarbs
